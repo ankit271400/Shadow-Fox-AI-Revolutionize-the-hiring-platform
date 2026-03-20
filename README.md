@@ -37,4 +37,6 @@ Step 8 — Explainability Layer
 The system writes a plain-English reasoning sentence for every candidate and every role match, explaining why the score is what it is — which skills bridge the gap, what the adjacency score means, and what the predicted timeline is.
 
 Step 9 — Recruiter Dashboard
+
+Link to zip file- https://drive.google.com/file/d/1yBE6saHwFnK_mgoirtiHBoG4xmPEH1kG/view?usp=sharing
 Everything surfaces visually: the PLS ring, evidence cards, DNA radar, skill heatmap, role matches with per-role reasoning, and AI insight bullets — so a recruiter can make a decision in under 60 seconds
